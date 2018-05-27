@@ -5,6 +5,7 @@ setTimeout(function addElement(){
     newDiv.appendChild(newContent);
     var currentDiv = document.getElementById("div1");
     document.body.insertBefore(newDiv, currentDiv);
+    console.log('it worked!');
 }, 5000);
 
 
