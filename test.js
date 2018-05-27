@@ -5,7 +5,7 @@ setTimeout(function addElement(){
     newDiv.appendChild(newContent);
     document.getElementById("div1").appendChild(newDiv);
     console.log('it worked!');
-}, 5000);
+}, 7000);
 
 
 
