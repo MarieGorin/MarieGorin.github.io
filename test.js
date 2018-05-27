@@ -1,5 +1,5 @@
 //setTimeout(function addElement(){
-document.body.onload = addElement();
+document.body.onload = addElement;
 
 function addElement(){
 
